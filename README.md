@@ -5,3 +5,9 @@ I'm a bit too lazy when it comes to creating new playlists and adding songs
 
 ## Monthly Playlists 
 Create monthly playlists
+
+## Artist Playlists 
+pass 
+
+## Genre Playlists 
+pass 
